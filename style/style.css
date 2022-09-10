@@ -51,4 +51,10 @@
     letter-spacing: 1px;
   }
     
-   .pink{color: rgb(227, 81, 193);}
+   .pink{color: #FFFFFF;}
+
+   .light-theme {
+    color: #FFFFFF;
+    background: #68c3c5;
+  }
+  a{color: #FFFFFF;}
